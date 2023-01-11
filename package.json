@@ -33,7 +33,7 @@
     "dox": "~0.5.0",
     "dustjs-helpers": "~1.6.0",
     "dustjs-linkedin": "~2.6.0",
-    "mocha": "^2.5.3",
+    "mocha": "^10.2.0",
     "uglify-js": "^2.7.0"
   }
 }
